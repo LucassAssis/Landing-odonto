@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title>Lumina Odontologia</title>
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f4f79" />
+      <stop offset="100%" stop-color="#35baa6" />
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="18" fill="url(#bg)" />
+  <path
+    d="M32 10c-4.7 0-8.8 2.2-11.4 5.8-2-1.6-4.6-2.4-7.3-2.4-5.9 0-10 4.4-10 10.3 0 3.1 1.1 5.9 2.8 8.3 1.6 2.2 2.5 4.9 2.5 7.8 0 9.7 5 17.8 11.2 17.8 2.7 0 4.5-1.1 6-1.9 1.4-.8 2.3-1.4 3.9-1.4s2.5.6 3.9 1.4c1.5.8 3.3 1.9 6 1.9 6.2 0 11.2-8.1 11.2-17.8 0-2.9.9-5.6 2.5-7.8 1.7-2.4 2.8-5.2 2.8-8.3 0-5.9-4.1-10.3-10-10.3-2.7 0-5.3.8-7.3 2.4C40.8 12.2 36.7 10 32 10Z"
+    fill="#ffffff"
+    fill-opacity="0.95"
+  />
+  <path
+    d="M22 31.5c2.4 4.5 6 6.8 10 6.8s7.6-2.3 10-6.8"
+    fill="none"
+    stroke="#35baa6"
+    stroke-linecap="round"
+    stroke-width="3.4"
+  />
+  <path
+    d="M45.5 15.5l1.2 2.8 2.8 1.2-2.8 1.2-1.2 2.8-1.2-2.8-2.8-1.2 2.8-1.2 1.2-2.8Z"
+    fill="#d9fff8"
+  />
+</svg>
