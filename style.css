@@ -1678,8 +1678,8 @@ p {
   font-size: 1rem;
 }
 
-.footer-grid a,
-.footer-grid span {
+.footer-links a,
+.footer-links span {
   display: block;
   color: var(--text-soft);
   margin-bottom: 10px;
